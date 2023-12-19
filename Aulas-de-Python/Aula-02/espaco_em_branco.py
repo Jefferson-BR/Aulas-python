@@ -1,0 +1,1 @@
+print("Melhores Linguagens de desenvolvimento: \n\tHTML\n\tCSS \nMelhores linguagens de programação: \n\tJavaScript\n\tPython\n\tPHP\n\tC++\n\tC\n\tSwift\n\tKotlin")
